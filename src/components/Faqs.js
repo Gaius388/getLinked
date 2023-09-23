@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import React from 'react'
 import { Disclosure } from "@headlessui/react";
 import { FiPlus, FiMinus } from "react-icons/fi";
